@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"8c8dda8966c2823e","type":"group","x":-1400,"y":80,"width":1326,"height":1088,"label":"May 2020 Paper 1"},
+		{"id":"a5a950286d214a86","type":"file","file":"quartz/content/Images/Physics/Pasted image 20260503183153.png","x":-1394,"y":440,"width":400,"height":272},
+		{"id":"58a113b1c05087f9","type":"file","file":"quartz/content/Images/Physics/Pasted image 20260503183530.png","x":-994,"y":440,"width":400,"height":105},
+		{"id":"5819492069eebd85","type":"file","file":"quartz/content/Images/Physics/Pasted image 20260503183126.png","x":-1394,"y":160,"width":399,"height":183},
+		{"id":"588ea1bd44e3a02f","type":"file","file":"quartz/content/Images/Physics/Pasted image 20260503183547.png","x":-994,"y":160,"width":399,"height":113},
+		{"id":"4be847348f16a719","type":"file","file":"quartz/content/Images/Physics/Pasted image 20260503183230.png","x":-1394,"y":840,"width":400,"height":286},
+		{"id":"cf3cd724ad36ab83","type":"file","file":"quartz/content/Images/Physics/Pasted image 20260503183243.png","x":-994,"y":862,"width":400,"height":121}
+	],
+	"edges":[]
+}
